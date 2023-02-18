@@ -1,0 +1,118 @@
+[
+    {
+        "id": 5700,
+        "city": "Lehrberg",
+        "postal_code": "91611",
+        "sub_localities": [
+            "Ballstadt",
+            "Kühndorf",
+            "Birkach",
+            "Hürbel a. Rangen",
+            "Obersulzbach",
+            "Gräfenbuch",
+            "Wüstendorf",
+            "Gödersklingen",
+            "Schmalenbach",
+            "Fritzmühle",
+            "Buhlsbach",
+            "Marienhöhe",
+            "Berndorf",
+            "Untersulzbach",
+            "Röshof",
+            "Brünst",
+            "Lehrberg",
+            "Walkmühle",
+            "Unterheßbach",
+            "Seemühle",
+            "Oberheßbach",
+            "Zailach",
+            "Schmalach"
+        ],
+        "country_code": "DE",
+        "lat": 49.3467235,
+        "lng": 10.4968512,
+        "google_places_id": "ChIJpSbtf-e8mEcR8ErF9DXaHhw"
+    },
+    {
+        "id": 5699,
+        "city": "Insingen",
+        "postal_code": "91610",
+        "sub_localities": [
+            "Sandhof",
+            "Insingen",
+            "Leidenberg",
+            "Fallhaus",
+            "Hammerschmiede",
+            "Wilhelmsmühle",
+            "Lohrbach",
+            "Leuzhof",
+            "Kastenmühle",
+            "Lohr"
+        ],
+        "country_code": "DE",
+        "lat": 49.3107041,
+        "lng": 10.1567671,
+        "google_places_id": "ChIJnwv5vdGNmEcR0ErF9DXaHhw"
+    },
+    {
+        "id": 5698,
+        "city": "Geslau",
+        "postal_code": "91608",
+        "sub_localities": [
+            "Lauterbach",
+            "Dornhausen",
+            "Hürbel",
+            "Schwabsroth",
+            "Reinswinden",
+            "Oberndorf",
+            "Kreuth",
+            "Aidenau",
+            "Steinach am Wald",
+            "Stettberg",
+            "Gunzendorf",
+            "Unterbreitenau",
+            "Geslau",
+            "Oberbreitenau"
+        ],
+        "country_code": "DE",
+        "lat": 49.36315740000001,
+        "lng": 10.3157927,
+        "google_places_id": "ChIJ62e_PduQmEcRoErF9DXaHhw"
+    },
+    {
+        "id": 5697,
+        "city": "Gebsattel",
+        "postal_code": "91607",
+        "sub_localities": [
+            "Gebsattel",
+            "Pleikartshof",
+            "Wildenhof",
+            "Bockenfeld",
+            "Rödersdorf",
+            "Speierhof",
+            "Eckartshof",
+            "Kirnberg"
+        ],
+        "country_code": "DE",
+        "lat": 49.3543552,
+        "lng": 10.2027805,
+        "google_places_id": "ChIJbTWr7N2RmEcRgErF9DXaHhw"
+    },
+    {
+        "id": 5696,
+        "city": "Gallmersgarten",
+        "postal_code": "91605",
+        "sub_localities": [
+            "Gallmersgarten",
+            "Mörlbach",
+            "Bergtshofen",
+            "Steinach b Rothenburg ob der Tauber",
+            "Habermühle",
+            "Steinach a d Ens"
+        ],
+        "country_code": "DE",
+        "lat": 49.458268,
+        "lng": 10.2774106,
+        "google_places_id": "ChIJO_h4OkmbmEcREFLF9DXaHhw"
+    }
+]
