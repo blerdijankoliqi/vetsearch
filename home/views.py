@@ -65,8 +65,8 @@ def convert_json(self):
                 lat=page['lat'],
                 lng=page['lng'],
                 google_places_id=page['google_places_id'],
-                search_description="Looking for reliable and affordable pet care in " + page['city'] + "? Check out our list of local veterinarians, providing everything from preventative medicine to surgical services. Find the right vet for your pet today.",
-                seo_title=page['city'] + " Veterinarians Near You | Find Affordable Pet Care"
+                search_description="Benötigen Sie einen Tierarzt in " + page['city'] + " oder in Ihrer Nähe? Suchen Sie nicht länger. Mit Petleo Vet Search können Sie bequem und schnell den passenden Tierarzt in " + page['city'] + " finden und schnell online Termin buchen.",
+                seo_title=page['city'] + " Tierarztpraxis & Tierarzt in der Nähe | Tierarzttermine einfach online buchen"
             )
             parent_page.add_child(instance=locality_page)
             locality_page.save()            
